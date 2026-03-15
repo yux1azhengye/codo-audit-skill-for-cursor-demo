@@ -1,0 +1,12 @@
+# Audit output (optional: remove if you want to track reports)
+audit-report/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
