@@ -17,7 +17,7 @@
 - **通用 Prompt**：`prompts/recon.md`、`round1-*.md`、`attack-chain.md`、`false-positive-rules.md`
 - **按需语言**：`prompts/java/`、`go/`、`python/`、`php/`、`asp/`、`nodejs/`，及 `prompts/logic/`（业务逻辑专项）
 
-详细说明见 [.cursor/skills/codo-audit/README.md](.cursor/skills/codo-audit/README.md)。方法论与设计思路见 [redeme.md](redeme.md)。
+详细说明见 [.cursor/skills/codo-audit/README.md](.cursor/skills/codo-audit/README.md)。
 
 ## 支持语言
 
